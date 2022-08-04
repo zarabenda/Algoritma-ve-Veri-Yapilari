@@ -21,6 +21,7 @@ Root 7'dir.
 4, 7'den ve 5'ten küçük, 1'den ve 3'ten büyük olduğu için 3'ün sağına gelir.
 
 2, 7'den ve 5'ten küçük, 1'den büyük ve 3'ten küçük olduğu için 3'ün soluna gelir.
+
 ---
 [patika.dev][https://app.patika.dev]
 
