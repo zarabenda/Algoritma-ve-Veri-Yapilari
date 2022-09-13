@@ -1,2 +1,2 @@
-# AlgoritmaveVeriYapılarıProjesi/patika.dev
+# AlgoritmaveVeriYapilariProjesi/patika.dev
  patika.dev proje ödevi
