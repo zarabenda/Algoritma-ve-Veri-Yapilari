@@ -1,5 +1,5 @@
 # AlgoritmaveVeriYapilariProjesi/patika.dev
  patika.dev proje ödevi kapsamında hazırladığım bu dizinde,
- veri yapılarının mantığı örneklerle açıklanmış olup, .jpg
+ veri yapılarının mantığı örneklerle açıklanmış olup, .png
  türünde dosyalarla birlikte görünümüne erişim sağlanmıştır.
  
