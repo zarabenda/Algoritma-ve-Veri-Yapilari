@@ -1,4 +1,4 @@
-# Binary Search Tree
+# Binary Search Tree🙌
 <b>TR:</b> Binary Search Tree yapısının açıklandığı proje.<br>
 <b>EN:</b> Project which Binary Search Tree is explained.<br>
 
