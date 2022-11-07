@@ -1,4 +1,4 @@
-# AlgoritmaveVeriYapilariProjesi # Algorithm and Data Structures Project
+# Algoritma ve Veri Yapilari Projesi # Algorithm and Data Structures Project
  TR: Veri yapılarının mantığı örneklerle açıklandı. Uygun klasörü seçerek erişebilirsiniz ya da aşağıdaki fotoğraflardan göz atabilirsiniz.<br>
  EN: Logic of data structures been explained with samples.
  
