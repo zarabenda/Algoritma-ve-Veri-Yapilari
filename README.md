@@ -1,6 +1,6 @@
 # Algorithm and Data Structures💫
- <b>TR:</b> Veri yapılarının mantığı örneklerle açıklandı. Uygun klasörü seçerek erişebilirsiniz ya da aşağıdaki fotoğraflardan göz atabilirsiniz.<br>
- <b>EN:</b> Logic of data structures been explained with samples. You can access with selecting proper folder or you can take a look to the photos below.
+ <b>TR:</b> <b>Veri yapıları</b>nın mantığı örneklerle açıklandı. Uygun klasörü seçerek erişebilirsiniz ya da aşağıdaki fotoğraflardan göz atabilirsiniz.<br>
+ <b>EN:</b> Logic of <b>data structure</b>s been explained with samples. You can access with selecting proper folder or you can take a look to the photos below.
  
  ## BiNARY SEARCH TREE
  
