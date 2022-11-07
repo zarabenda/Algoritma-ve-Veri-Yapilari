@@ -1,4 +1,4 @@
-# Merge Sort
+# Merge Sort🙌
 <b>TR:</b> Merge Sort yapısının açıklandığı proje.<br>
 <b>EN:</b> The project in which the Merge Sort structure is explained.<br>
 
