@@ -1,6 +1,6 @@
 # Algorithm and Data Structures💫
  <b>TR:</b> <b>Algoritma</b>ların mantığı örneklerle açıklandı. Uygun klasörü seçerek erişebilirsiniz ya da aşağıdaki fotoğraflardan göz atabilirsiniz.<br>
- <b>EN:</b> Logic of <b>algorithms</b>s been explained with samples. You can access with selecting proper folder or you can take a look to the photos below.
+ <b>EN:</b> Logic of <b>algorithms</b>have been explained with samples. You can access with selecting proper folder or you can take a look to the photos below.
  
  ## BiNARY SEARCH TREE
  
